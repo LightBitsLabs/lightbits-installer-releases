@@ -188,4 +188,4 @@ echo "Lightbits Installer ${VERSION} ready."
 echo "Binary installed to: $INSTALL_DIR/lightbits-installer"
 echo ""
 
-exec "$INSTALL_DIR/lightbits-installer" "$@"
+exec "$INSTALL_DIR/lightbits-installer" "install" "$@"
