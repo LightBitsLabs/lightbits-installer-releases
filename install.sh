@@ -2,8 +2,8 @@
 # Lightbits Installer Bootstrap Script
 #
 # Usage:
-#   curl -sL https://www.lightbitslabs.com/installer | sh
-#   wget -O- https://www.lightbitslabs.com/installer | sh
+#   curl -sL https://lightbitslabs.github.io/install.sh | sh
+#   wget -O- https://lightbitslabs.github.io/install.sh | sh
 #
 # Environment variables:
 #   INSTALLER_VERSION  Pin to a specific version (e.g., v1.0.0). Default: latest.
